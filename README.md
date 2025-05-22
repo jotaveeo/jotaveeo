@@ -10,7 +10,7 @@
 ###
 
 <div align="left">
-   <img align="left" height="150" src="https://i.imgflip.com/940sba.jpg"  />
+<!--    <img align="left" height="150" src="https://i.imgflip.com/940sba.jpg"  /> -->
 </div>
 
 ###
@@ -29,8 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="css3 logo"  />
 </div>
-
-
 
 <br clear="both">
 
