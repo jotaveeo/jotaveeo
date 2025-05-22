@@ -3,14 +3,15 @@
 ###
 
 <div align="center">
-  <img align="left" height="150" src="https://i.imgflip.com/940sba.jpg"  />
   <img src="https://streak-stats.demolab.com?user=jotaveeo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jotaveeo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-
+<div align="left">
+   <img align="left" height="150" src="https://i.imgflip.com/940sba.jpg"  />
+</div>
 
 ###
 
