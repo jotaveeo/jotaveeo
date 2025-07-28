@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jotavee088/" target="_blank">
+  <a href="https://www.linkedin.com/in/jotaveeodev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/jotaveeb_dev/" target="_blank">
