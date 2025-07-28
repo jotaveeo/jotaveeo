@@ -19,7 +19,7 @@
   <p align="center">𝖥𝗎𝗅𝗅 𝖲𝗍𝖺𝖼𝗄 𝖶𝖾𝖻 | 𝖢𝗈𝗆𝗉𝗎𝗍𝖾𝗋 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋𝗂𝗇𝗀 | 𝖨𝖳 𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝗂𝖺𝗇</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/typescript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
