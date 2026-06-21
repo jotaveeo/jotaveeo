@@ -16,7 +16,7 @@ Transformo processos e necessidades reais em sistemas funcionais, escaláveis e 
 
 - 🎓 Engenharia da Computação - UNIFOR
 - 🎯 Tecnologia em Banco de Dados - UNIBTA
-- 💼 Analista de Suporte Técnico na Wheelz
+- 💼 Desenvolvedor Full Stack
 - 📊 Experiência em processos, automação e desenvolvimento de software
 - 🤖 Interesse em Backend, IA e Arquitetura de Sistemas
 
